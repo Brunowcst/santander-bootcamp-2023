@@ -33,6 +33,18 @@ public class OperadoresLogicos {
         System.out.println(resultado_ternario);
 
         //Operadores relacionais:
+        int numero1 = 1;
+        int numero2 = 2;
 
+        boolean resultado_comparacao = numero1 == numero2;
+        System.out.println(resultado_comparacao);
+
+        boolean resultado_comparacao_difereca = numero1 != numero2;
+        System.out.println(resultado_comparacao_difereca);
+
+        boolean resultado_comparacao_maiorIgual = numero1 >= numero2;
+        System.out.println(resultado_comparacao_maiorIgual);
+
+        //EQUALS compara conteúdos! (Recomendado para objetos)
     }
 }
