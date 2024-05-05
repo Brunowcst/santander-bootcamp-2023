@@ -46,5 +46,15 @@ public class OperadoresLogicos {
         System.out.println(resultado_comparacao_maiorIgual);
 
         //EQUALS compara conteúdos! (Recomendado para objetos)
+
+        //Operadores lógicos:
+        boolean condicao1 = true;
+        boolean condicao2 = false;
+
+        if (condicao1 || condicao2) {
+            System.out.println("Condição aceita");
+        } else {
+            System.out.println("Condição negada");
+        }
     }
 }
