@@ -1,4 +1,4 @@
-package com.santanderbootcamp.bruno;
+package src.com.santanderbootcamp.bruno;
 
 public class MinhaClasse {
     public static void main(String[] args) {
